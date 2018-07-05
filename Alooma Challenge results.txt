@@ -1,0 +1,5 @@
+TASK: 0.0287 engagements / day
+NOTE: 0.1364 engagements / day
+CALL: 0.0089 engagements / day
+PUBLISHING_TASK: 0.0036 engagements / day
+EMAIL: 0.0018 engagements / day
